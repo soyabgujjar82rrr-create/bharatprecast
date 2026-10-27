@@ -1,0 +1,8 @@
+{
+  "name": "Remix Remix MyGallery",
+  "description": "A modern photo gallery app with Firebase authentication, photo upload, and personal gallery viewer.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

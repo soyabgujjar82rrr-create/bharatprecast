@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">My Gallery App Lock</string>
+    <string name="app_lock_accessibility_description">My Gallery App Lock monitors when you open protected apps to show your secure PIN or fingerprint screen. It does not read your screen content, personal messages, or passwords.</string>
+</resources>
